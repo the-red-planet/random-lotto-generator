@@ -1,0 +1,21 @@
+h1 {
+    color: blueviolet;
+    font-family: cursive;
+    text-align: center;
+  }
+  
+  p {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  button {
+    color: cadetblue;
+    padding: 10px 16px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
